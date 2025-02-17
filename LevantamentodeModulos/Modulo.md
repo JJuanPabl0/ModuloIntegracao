@@ -1,33 +1,33 @@
-# Levantamento de Módulos e Integrações na Indústria 4.0
+#  🏭 Levantamento de Módulos e Integrações na Indústria 4.0
 
-**Grupo:**
-- Juan Pablo Silvério Silva
-- Vinicius Pires
-- Luís Henrique
-- Daniel
+> **Projeto desenvolvido por:** 
+> 🧑‍💻 Juan Pablo 
+> 🧑‍💻 Vinicius Pires
+> 🧑‍💻 Luís Henrique
+> 🧑‍💻 Daniel
 
-## 1. Identificação dos Módulos do ERP
+## 📌 1. Identificação dos Módulos do ERP
 
 Para garantir a gestão eficiente da empresa, os seguintes módulos do ERP são necessários:
 
-- **Compras**: Controle de aquisições de matérias-primas e insumos.
-- **PCP (Planejamento e Controle da Produção)**: Geração e controle de Ordens de Produção (OPs).
-- **Manutenção**: Gerenciamento preventivo e corretivo de máquinas e equipamentos.
-- **Controle de Qualidade**: Monitoramento da qualidade dos produtos e processos.
-- **Estoque**: Controle de entrada e saída de matérias-primas e produtos acabados.
-- **Financeiro**: Gestão de custos, faturamento e fluxo de caixa.
-- **Vendas e Distribuição**: Processamento de pedidos e gestão logística.
+- ✅ **Compras**: Controle de aquisições de matérias-primas e insumos.
+- ✅ **PCP (Planejamento e Controle da Produção)**: Geração e controle de Ordens de Produção (OPs).
+-✅  **Manutenção**: Gerenciamento preventivo e corretivo de máquinas e equipamentos.
+- ✅ **Controle de Qualidade**: Monitoramento da qualidade dos produtos e processos.
+- ✅ **Estoque**: Controle de entrada e saída de matérias-primas e produtos acabados.
+- ✅ **Financeiro**: Gestão de custos, faturamento e fluxo de caixa.
+- ✅ **Vendas e Distribuição**: Processamento de pedidos e gestão logística.
 
-## 2. Integração com o MES
+## 🔗 2. Integração com o MES
 
 Para otimizar a execução das ordens de produção e garantir rastreabilidade, as seguintes informações são trocadas entre o ERP e o MES:
 
-- **Do ERP para o MES**: Ordens de produção, planejamento de materiais, dados de estoque.
-- **Do MES para o ERP**: Status de produção, consumo de matérias-primas, informações de qualidade.
+- ➡️ **Do ERP para o MES**: Ordens de produção, planejamento de materiais, dados de estoque.
+- ⬅️ **Do MES para o ERP**: Status de produção, consumo de matérias-primas, informações de qualidade.
 
 Essa integração permite a sincronização entre planejamento estratégico e execução operacional.
 
-## 3. SCADA e Controle de Processos
+## ⚡ 3. SCADA e Controle de Processos
 
 O SCADA será integrado ao MES e aos CLPs da seguinte forma:
 
@@ -98,3 +98,4 @@ Sincroniza processos internos e externos, garantindo eficiência produtiva.
 ## 7. Conclusão
 
 A integração entre **ERP, MES, SCADA, CLPs e sensores/atuadores** é essencial para maximizar a eficiência e competitividade na **Indústria 4.0**. A implementação bem planejada desses sistemas permite um **controle mais preciso da produção**, **melhor gestão de recursos** e **maior flexibilidade para adaptação a novas demandas do mercado**.
+
